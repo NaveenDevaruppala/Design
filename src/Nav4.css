@@ -1,7 +1,7 @@
 .Card16{
     background-color: rgb(50, 5, 69);
-    margin: -10px 0 0 0;
-    width:1263px ;
+    margin: 0 0 0 0;
+    width:1570px ;
 }
 .t50{
     width: 1290px;
@@ -13,7 +13,7 @@ font-weight: 700;
 font-size: 44px;
 line-height: 77px;
 /* identical to box height */
-
+margin-left: 150px;
 text-align: center;
 letter-spacing: -1px;
 text-transform: uppercase;
@@ -40,7 +40,7 @@ font-weight: 600;
 font-size: 16px;
 line-height: 24px;
 /* identical to box height, or 150% */
-
+/* margin-left: 150px; */
 text-align: center;
 
 color: #AAAAAA;
@@ -51,7 +51,7 @@ color: #AAAAAA;
 flex: none;
 order: 1;
 flex-grow: 0;
-margin: 0 0 0 30px;
+margin: 0 0 0 200px;
 }
 .btn9{
     display: flex;
@@ -93,17 +93,17 @@ color: #FFFFFF;
 flex: none;
 order: 0;
 flex-grow: 0;
-margin: 0 0 0 500px;
+margin: 0 0 0 700px;
 }
 .ll10{
     background-color: white;
     position: absolute;
-    width: 1293.98px;
+    /* width: 1593.98px; */
+    max-width: 1570px;
     height: 122px;
     /* left: -18.01px; */
      /* top: 5px;   */
      margin: 0px 0 0 0;
-    
     transform: rotate(-1);
 }
 .t55{

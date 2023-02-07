@@ -36,7 +36,7 @@ flex-grow: 0;
     
 width: 181px;
 height: 5px;
-margin: 0 0 0 110px;
+margin: 0 0 0 850px;
 
 font-family: 'Noto Serif Thai';
 font-style: normal;
@@ -56,25 +56,27 @@ flex: none;
 order: 0;
 flex-grow: 0;
 }
-.ll21{
-    margin: 35px 0 0 105px;
-line-height: 12px;
 
-}
-.ll22{
-margin: 35px 0 0 15px;
-}
-.ll23{
-    margin: 35px 0 0 15px;
-}
+
 .hr8{
     height: 5px;
     color: black;
-    width: 70%;
+    width: 90%;
     margin: 0 0 0 170px;
     border: 1.5px solid black;
     background-color: black;
 }
+.vectors{
+   margin-top: 10px ;
+   margin-left: 100px;
+   
+}
+.v1{
+    margin-left: 740px;
+}
+
+
+
 .t90{
     width: 144px;
 height: 22px;

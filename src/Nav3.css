@@ -8,6 +8,7 @@ font-weight: 700;
 font-size: 44px;
 line-height: 77px;
 /* identical to box height */
+margin-left: 200px;
 
 text-align: center;
 letter-spacing: -1px;
@@ -29,12 +30,17 @@ order: 0;
 flex-grow: 0;
 }
 .Card12{
-    border: 1.5px solid rgba(170, 170, 170, 1);
+    border: 2px solid rgba(170, 170, 170, 1);
     ;
-    border-radius: 15px;
+    border-radius: 1px;
+   max-width: 1500px;
+
+   margin-left: 150px;
 }
 .Card13{
  margin: 0 0 0 150px;
+ max-width: 100px;
+ 
 }
 .t34{
     border: 2px solid white;
@@ -44,8 +50,9 @@ height: 26px;
 font-family: 'Noto Serif Thai';
 font-style: normal;
 font-weight: 600;
-font-size: 16px;
-line-height: 26px;
+font-size: 14px;
+line-height: 46px;
+margin-left: 20px;
 /* identical to box height */
 
 
@@ -60,21 +67,21 @@ flex-grow: 0;
 }
 .t35{
     width: 200px;
-height: 28px;
+height: 24px;
 
 font-family: 'Noto Serif Thai';
 font-style: normal;
 font-weight: 600;
-font-size: 17px;
+font-size: 16px;
 line-height: 28px;
 /* identical to box height, or 140% */
-
+margin-left: 20px;
 letter-spacing: -1px;
 text-transform: uppercase;
 
 color: #000000;
 
-
+margin-left: 10px;
 /* Inside auto layout */
 
 flex: none;
@@ -135,7 +142,7 @@ font-style: normal;
 font-weight: 600;
 font-size: 30px;
 line-height: 51px;
-text-align: center;
+text-align: right;
 letter-spacing: -1px;
 text-transform: uppercase;
 
@@ -156,9 +163,9 @@ flex-grow: 0;
 margin: 40px 0 0 200px;
 }
 .t39{
-    width: 776px;
+width: 776px;
 height: 24px;
-
+margin-left: 100px;
 font-family: 'Noto Serif Thai';
 font-style: normal;
 font-weight: 400;
@@ -167,19 +174,16 @@ line-height: 24px;
 /* identical to box height, or 150% */
 
 text-align: center;
-
 color: #AAAAAA;
-
-
 /* Inside auto layout */
 
 flex: none;
 order: 1;
 flex-grow: 0;
-margin: 0 0 0 185px;
+margin: 0 0 0 385px;
 }
 .btn7{
-    display: flex;
+display: flex;
 flex-direction: row;
 justify-content: center;
 align-items: center;
@@ -187,10 +191,10 @@ padding: 16px 50px;
 gap: 8px;
 
 width: 147px;
-height: 46px;
+height: 59px;
 
 background: #000000;
-border-radius: 8px;
+border-radius: 10px;
 
 /* Inside auto layout */
 
@@ -203,7 +207,7 @@ height: 24px; */
 font-family: 'Noto Serif Thai';
 font-style: normal;
 font-weight: 500;
-font-size: 16px;
+font-size: 18px;
 line-height: 24px;
 /* identical to box height, or 150% */
 
@@ -216,23 +220,17 @@ color: #FFFFFF;
 flex: none;
 order: 0;
 flex-grow: 0;
-margin: 10px 0 0 500px;
+margin: 10px 0 0 700px;
 }
 .ll9{
     background-color: rgb(50, 5, 69);
     position: absolute;
-    width: 1293.38px;
-    height: 112px;
-    /* left: -18.01px; */
+    width: 1600.38px;
+    height: 192px;
+    left: -150px;
     /* top: 10px;   */
-    margin-top: 50px;
+    margin-top: 70px;
     background: linear-gradient();
     transform:rotate(-1);
-}
-.t45{
-    background:rgb(50, 5, 69);
-    width: 1263.38px;
-    height: 45px;
-    margin-top:15px;
-    color: rgb(50, 5, 69);
+    margin-left: 120px;
 }

@@ -1,18 +1,18 @@
 .navbar {
     box-sizing: border-box;
-  
+  z-index: 2;
     position: absolute;
-    width: 1200px;
-    height: 82px;
+    width: 1440px;
+    height: 92px;
     left: 0px;
     top: 0px;
-    margin: 10px;
+    
     
     background: #FFFFFF;
   }
   .l1{
     width: 28.6px;
-  height: 29.19px;
+  height: 40.19px;
   
   background: white;
   
@@ -34,18 +34,18 @@
   position: absolute;
   width: 92px;
   height: 44px;
-  left: 1000px;
+  left: 1194px;
   top: 19px;
   
   background: #000000;
   border-radius: 8px;
-  width: 44px;
-  height: 14px;
+  width: 94px;
+  height: 44px;
   
   font-family: 'Noto Serif Thai';
   font-style: normal;
   font-weight: 500;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 14px;
   /* identical to box height, or 100% */
   
@@ -106,7 +106,7 @@
   margin: 130px 0 0 90px;
   
   width: 200px;
-  height: 6px;
+  height: 56px;
   
   background: #000000;
   border-radius: 8px;
@@ -114,18 +114,18 @@
   /* Inside auto layout */
   
   flex: none;
-  order: 4;
+  order: 2;
   flex-grow: 0;
   
   
   width: 190px;
-  height: 32px;
+  height: 52px;
   
   font-family: 'Noto Serif Thai';
   font-style: normal;
   font-weight: 500;
-  font-size: 12px;
-  line-height: 14px;
+  font-size: 13px;
+  line-height: 24px;
   /* identical to box height, or 150% */
   
   
@@ -140,15 +140,24 @@
   }
   
   .img1{
+    z-index: 1;
     display: flex;
+    position: absolute;
+    width: 889.18px;
+    height: 759.39px;
+    left: 648.32px;
+    top: -17px;
+    
+    /* display: flex;
     justify-content: center;
     align-items: center;
     padding: 16px;
     max-width: 100vh;
     max-height: 100vh;
-    min-width: 10vh;
-    min-height: 10vh;
+    min-width: 80vh;
+    min-height: 80vh;
     margin: -55px 0 0 0;
+    margin-left: 0px; */
   }
   
   img {
@@ -158,8 +167,8 @@
   
   .t3{
     
-  width: 460px;
-  height: 130px;
+  width: 463px;
+  height: 154x;
   margin: 10px 0 0 90px;
   
   font-family: 'Noto Serif Thai';
@@ -186,8 +195,8 @@
   font-family: 'Noto Serif Thai';
   font-style: normal;
   font-weight: 600;
-  font-size: 22px;
-  line-height: 20px;
+  font-size: 23px;
+  line-height: 30px;
   letter-spacing: -1px;
   text-transform: uppercase;
   margin: 10px 0 0 90px;
@@ -209,15 +218,15 @@
   flex-grow: 0;
   }
   .t6{
-    width: 390px;
-  height: 1px;
+    width: 463px;
+  height: 96px;
   margin: 20px 0 0 90px;
   
   font-family: 'Noto Serif Thai';
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 26px;
+  line-height: 24px;
   /* or 150% */
   
   
@@ -292,12 +301,12 @@
   }
   .x1{
    /* Vector 392 */
-   background-color: #141313;
+   background-color: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
   position: absolute;
-  width: 1305.38px;
-  height: 123px;
-  left: -18.01px;
-  top: 541.73px;
+  width: 1565.38px;
+  height: 161px;
+  left: -1.01px;
+  top: 803.73px;
   
   background: rgb(50, 5, 69);
   transform: rotate(-1);
