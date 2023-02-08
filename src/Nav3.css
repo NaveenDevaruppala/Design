@@ -5,7 +5,7 @@ height: 77px;
 font-family: 'Noto Serif Thai';
 font-style: normal;
 font-weight: 700;
-font-size: 44px;
+font-size: 40px;
 line-height: 77px;
 /* identical to box height */
 margin-left: 200px;
@@ -30,9 +30,9 @@ order: 0;
 flex-grow: 0;
 }
 .Card12{
-    border: 2px solid rgba(170, 170, 170, 1);
+    border: 1.5px solid rgba(170, 170, 170, 1);
     ;
-    border-radius: 1px;
+    border-radius: 15px;
    max-width: 1500px;
 
    margin-left: 150px;
@@ -50,7 +50,7 @@ height: 26px;
 font-family: 'Noto Serif Thai';
 font-style: normal;
 font-weight: 600;
-font-size: 14px;
+font-size: 10px;
 line-height: 46px;
 margin-left: 20px;
 /* identical to box height */
@@ -72,7 +72,7 @@ height: 24px;
 font-family: 'Noto Serif Thai';
 font-style: normal;
 font-weight: 600;
-font-size: 16px;
+font-size: 14px;
 line-height: 28px;
 /* identical to box height, or 140% */
 margin-left: 20px;
@@ -89,16 +89,16 @@ order: 1;
 flex-grow: 0;
 }
 .t36{
-    width: 205px;
+    width: 200px;
 height: 26px;
-
+margin-left: 10px;
 font-family: 'Noto Serif Thai';
 font-style: normal;
 font-weight: 600;
-font-size: 12px;
-line-height: 28px;
+font-size: 10px;
+line-height: 46px;
 /* identical to box height */
-
+/* letter-spacing: -1px; */
 text-transform: uppercase;
 
 color: #AAAAAA;
@@ -111,16 +111,16 @@ order: 0;
 flex-grow: 0;
 }
 .t37{
-    width: 215px;
+width: 212px;
 height: 28px;
 
 font-family: 'Noto Serif Thai';
 font-style: normal;
 font-weight: 600;
-font-size: 15px;
+font-size: 14px;
 line-height: 28px;
 /* identical to box height, or 140% */
-
+margin-left: 5px;
 letter-spacing: -1px;
 text-transform: uppercase;
 

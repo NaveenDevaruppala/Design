@@ -21,7 +21,7 @@ const Nav3 = () => {
           
             <Card.Body>
               <Card.Title className='t36'>Loading fees (hold an nFT):</Card.Title>
-              <Card.Text className='t37'>From 2.25% reduced to 1.75%</Card.Text>
+              <Card.Text className='t37'>From  2.25%  reduced  to  1.75%</Card.Text>
             </Card.Body>
           
         </Col>
